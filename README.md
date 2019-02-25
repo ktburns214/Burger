@@ -11,4 +11,4 @@ Each burger in the waiting area also has a `Devour it!` button. When the user cl
 The app stores every burger in a database, whether devoured or not.
 
 Depolyed on Heroku
-https://secret-reaches-86510.herokuapp.com/ 
+https://burger-hw12.herokuapp.com/
